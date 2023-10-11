@@ -1,19 +1,18 @@
-table {
-            width: 100%;
-            border-collapse: collapse;
-            margin-top: 20px;
-        }
+table{
+	width:100%;
+	border-collapse:collapse;
+	
+}
+th{
+	text-align:left;
+	
 
-        th, td {
-            padding: 10px;
-            text-align: left;
-            border-bottom: 1px solid #ddd;
-        }
+}
+td{
+	text-align:right
+}
+th,td{
+	border:1px solid green;
+	padding:5px;
 
-        thead {
-            background-color: chocolate;
-        }
-		.footer{
-			background-color:skyblue;
-		}
-
+}
