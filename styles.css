@@ -1,2 +1,19 @@
+table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
 
-/* Your CSS Code here. */
+        th, td {
+            padding: 10px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+
+        thead {
+            background-color: chocolate;
+        }
+		.footer{
+			background-color:skyblue;
+		}
+
